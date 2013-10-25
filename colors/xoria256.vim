@@ -32,7 +32,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "xoria256_jpd"
+let colors_name = "xoria256"
 "}}}
 " Colours {{{1
 "" General {{{2
